@@ -1,4 +1,5 @@
-[![](https://badge.imagelayers.io/ilari/alpine-nginx-pagespeed:latest.svg)](https://imagelayers.io/?images=ilari/alpine-nginx-pagespeed:latest 'Get your own badge on imagelayers.io')
+# The development of this image has been moved to https://github.com/wunderkraut/alpine-nginx-pagespeed
+
 # alpine-nginx-pagespeed
 
 Nginx + PageSpeed optimisation library on top of Alpine Linux
